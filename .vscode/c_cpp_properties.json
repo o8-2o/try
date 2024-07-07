@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/xuany/Downloads/x86_64-13.2.0-release-win32-seh-msvcrt-rt_v11-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++",
+                "C:/Users/xuany/Downloads/x86_64-13.2.0-release-win32-seh-msvcrt-rt_v11-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32",
+                "C:/Users/xuany/Downloads/x86_64-13.2.0-release-win32-seh-msvcrt-rt_v11-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/backward",
+                "C:/Users/xuany/Downloads/x86_64-13.2.0-release-win32-seh-msvcrt-rt_v11-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include",
+                "C:/Users/xuany/Downloads/x86_64-13.2.0-release-win32-seh-msvcrt-rt_v11-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/include-fixed",
+                "C:/Users/xuany/Downloads/x86_64-13.2.0-release-win32-seh-msvcrt-rt_v11-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "cStandard": "c99"
+        }
+    ],
+    "version": 4
+}

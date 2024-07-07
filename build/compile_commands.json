@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/sdq/Desktop/VScode/c/Fuxuanyi_hw1/build",
+  "command": "gcc  @CMakeFiles/AlgebraProject.dir/includes_C.rsp -g -o CMakeFiles\\AlgebraProject.dir\\src\\algebra.c.obj -c C:\\Users\\sdq\\Desktop\\VScode\\c\\Fuxuanyi_hw1\\src\\algebra.c",
+  "file": "C:/Users/sdq/Desktop/VScode/c/Fuxuanyi_hw1/src/algebra.c",
+  "output": "CMakeFiles/AlgebraProject.dir/src/algebra.c.obj"
+},
+{
+  "directory": "C:/Users/sdq/Desktop/VScode/c/Fuxuanyi_hw1/build",
+  "command": "gcc  @CMakeFiles/AlgebraProject.dir/includes_C.rsp -g -o CMakeFiles\\AlgebraProject.dir\\src\\main.c.obj -c C:\\Users\\sdq\\Desktop\\VScode\\c\\Fuxuanyi_hw1\\src\\main.c",
+  "file": "C:/Users/sdq/Desktop/VScode/c/Fuxuanyi_hw1/src/main.c",
+  "output": "CMakeFiles/AlgebraProject.dir/src/main.c.obj"
+}
+]
